@@ -1,2 +1,3 @@
 # hello-world
-/kk
+
+I like C++ and a will design some programs .
